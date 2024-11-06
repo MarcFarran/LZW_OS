@@ -29,3 +29,8 @@ pero los desarrolladores activos deben hacer la transición al Dev Kit después 
  y estar preparados para encontrar algunos errores de vez en cuando.
 ```
 ## Comandos
+```
+turnoff = Apaga el Sistema
+reboot = Reinicia el Sistema
+cd = Entra al directorio indicado
+```
