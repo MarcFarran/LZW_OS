@@ -15,7 +15,7 @@
 
 ```
 ## Instalación
-````
+```
 Primero, debes elegir entre el User Kit y el Dev Kit. Se recomienda que los nuevos usuarios comiencen con el User Kit, pero luego pasen al Dev Kit.
 
 El Dev Kit es la fuente activa contra la cual el equipo de Cosmos desarrolla directamente.
@@ -28,3 +28,4 @@ El User Kit es una excelente manera fácil de familiarizarse con Cosmos,
 pero los desarrolladores activos deben hacer la transición al Dev Kit después de haberse familiarizado bien con el UserKit,
  y estar preparados para encontrar algunos errores de vez en cuando.
 ```
+## Comandos
