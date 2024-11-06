@@ -6,7 +6,7 @@
 - .NET Framework 6 Developer Pack
 - The Installer: Latest Release
 ```
-###Additional Prerequisites
+### Additional Prerequisites
 ```
 
 - Visual Studio 2019 Workload: Visual Studio Extension Development
