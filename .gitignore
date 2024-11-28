@@ -1,0 +1,15 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Entorns de depuració
+*.vsix
+*.user
+
+# Fitxers generats automàticament
+*.pdb
+*.log
